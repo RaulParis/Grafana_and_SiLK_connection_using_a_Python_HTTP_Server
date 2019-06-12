@@ -28,7 +28,7 @@ This poject contains all the files you need to establish a connection between Gr
 Features
 --------
 
-* Types of panels aviable: Time Graphic, Single Data, Text, Heat Map, Pie chart, World Map.
+* Panel types aviable: Time Graphic, Single Data, Text, Heat Map, Pie chart, World Map.
 
 * Different Grafana variables aviable (In the exported Grafana Dashboard).
 
