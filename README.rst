@@ -52,6 +52,9 @@ STEPS
 
 * 5 Configurate a JSON datasource with your ip or localhost and port 9000 (can be changed)
 
+.. image:: https://github.com/RaulParis/Grafana_and_SiLK_connection_using_a_Python_HTTP_Server/blob/master/Datasource_example.png
+        :target: https://github.com/RaulParis/Grafana_and_SiLK_connection_using_a_Python_HTTP_Server/blob/master/Datasource_example.png
+
 * 6 Import Grafana's Dashboard called "Grafana_SiLK" which is shared at project files.
 
 * 7 run the server with superuser permission (sudo su).
