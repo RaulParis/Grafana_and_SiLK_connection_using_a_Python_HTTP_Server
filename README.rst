@@ -18,8 +18,8 @@ Grafana and SiLK connection using a Python HTTP Server
      :target: https://pyup.io/repos/github/RaulParis/Grafana_and_SiLK_connection_using_a_Python_HTTP_Server/
      :alt: Updates
 
-.. image:: https://github.com/RaulParis/Grafana_and_SiLK_connection_using_a_Python_HTTP_Server/EXAMPLE.png
-        :target: https://github.com/RaulParis/Grafana_and_SiLK_connection_using_a_Python_HTTP_Server/EXAMPLE.png
+.. image:: https://github.com/RaulParis/Grafana_and_SiLK_connection_using_a_Python_HTTP_Server/blob/master/EXAMPLE.png
+        :target: https://github.com/RaulParis/Grafana_and_SiLK_connection_using_a_Python_HTTP_Server/blob/master/EXAMPLE.png
 
 This poject contains all the files you need to establish a connection between Grafana and SiLK. The connection uses the Grafana's JSON Data Source and a Python HTTP Server which is shared in the project files.
 
